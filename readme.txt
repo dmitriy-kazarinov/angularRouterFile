@@ -1,1 +1,1 @@
-Angular2 router file
+Angular2 router file and ts config test
