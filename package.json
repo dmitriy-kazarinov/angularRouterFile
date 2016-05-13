@@ -1,0 +1,22 @@
+{
+  "name": "Ainstainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dulin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "gulp-git": "^1.7.1",
+    "gulp-param": "^1.0.3"
+  }
+}
